@@ -1,0 +1,25 @@
+ubuntu-cloud-archive
+
+This is the ubuntu-cloud-archive module.
+
+Usage
+-----
+
+class {'ubuntu-cloud-archive':
+  release => 'grizzly',
+}
+
+License
+-------
+
+GPLv2 or greater
+
+Contact
+-------
+
+François Deppierraz <francois.deppierraz@nimag.net>
+
+Support
+-------
+
+Please log tickets and issues at our [Projects site](http://projects.example.com)
